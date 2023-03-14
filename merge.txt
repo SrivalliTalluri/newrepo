@@ -1,2 +1,4 @@
 totally different content to merge later
 content to append
+Another content
+This is a new line of text
